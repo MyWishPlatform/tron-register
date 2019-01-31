@@ -1,0 +1,19 @@
+{
+  "name": "tron-register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tronbox compile",
+    "migrate": "tronbox migrate",
+    "test": "tronbox test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tronbox": "^2.3.11"
+  },
+  "devDependencies": {
+    "tronweb": "^2.1.31"
+  }
+}
